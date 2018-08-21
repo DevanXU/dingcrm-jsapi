@@ -11,12 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevanXU/dingcrm-jsapi.git"
+    "url": "git+ssh://git@github.com/DevanXU/dingcrm-jsapi.git"
   },
   "keywords": [
     "dingtalk",
-    "ding-crm",
-    "nodejs"
+    "ding-crm"
   ],
   "author": "devan.xu",
   "license": "ISC",
