@@ -1,0 +1,27 @@
+{
+  "name": "dingcrm-jsapi",
+  "version": "0.0.1",
+  "description": "dingcrm API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevanXU/dingcrm-jsapi.git"
+  },
+  "keywords": [
+    "dingtalk",
+    "ding-crm",
+    "nodejs"
+  ],
+  "author": "devan.xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevanXU/dingcrm-jsapi/issues"
+  },
+  "homepage": "https://github.com/DevanXU/dingcrm-jsapi#readme"
+}
